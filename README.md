@@ -1,1 +1,1 @@
-Easy game on the Vue without any cli (using script inndex.html) just to learn fundamentals.
+Easy game on the Vue without any cli (using script in index.html) just to learn fundamentals.
